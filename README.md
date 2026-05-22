@@ -10,4 +10,5 @@
 未来三年，我的核心目标是前往香港攻读硕士学位。目前正在积极备考雅思，目标分数7.0。计划在2026年完成语言考试与科研项目积累，2027年完成申请并顺利入读港校（如港大、港科大、港中文的相关交叉学科），2027–2029年在硕士阶段深耕智慧城市安全、AI驱动节能系统等方向，为日后在大湾区从事智能安全与能源领域的研发工作打下坚实基础。
 
 团队logo
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/d2e6f049-19a1-4c87-b318-70a05ba8566b" />
+<img width="465" height="464" alt="image" src="https://github.com/user-attachments/assets/000f27e2-d73d-4194-8b60-1ea7ddac35b3" />
+
